@@ -1,7 +1,7 @@
 # Top G  
 
-**Passionate and dedicated software developer with a vision for creating innovative and impactful solutions.**  
-With over 3 years of experience in JavaScript, HTML5, and CSS3, I strive to build clean, scalable, and user-focused applications.
+**Passionate and dedicated software developer with a vision for creating innovative open-source projects.**  
+self-hired
 
 ---
 
