@@ -28,7 +28,7 @@ Here are the technologies and tools I work with:
 ## 🎮 My Biggest Project: ComplexToe  
 
 One of my proudest achievements is **[ComplexToe](https://store.steampowered.com/app/2940750/ComplexToe/)**, a strategy game now available on Steam.  
-I worked independently on this project for 1.5 years, managing everything from concept and design to development and testing. (I had some idea-help from friends)
+I worked independently on this project for 1.5 years, managing everything from concept and design to development and testing.
 
 ## 🛠 Currently Working On: Crah
 
