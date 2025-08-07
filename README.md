@@ -1,7 +1,6 @@
-# Innovator
+Not hired.
 
 **Passionate and dedicated software developer with a vision for creating innovative open-source projects.**  
-self-hired
 
 ---
 
